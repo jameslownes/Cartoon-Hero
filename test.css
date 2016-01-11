@@ -1,0 +1,22 @@
+body{
+	background-color: lightgreen
+	}
+<style type="text/css">
+ h1{color: orange} {font size: 22px;} 
+#first{
+	font-size: 150px;
+}
+.small{
+	font-size: 12px}
+h2{color: blue;
+   font-size: 30px
+}
+
+span{
+	font-style: italic;
+}
+
+h2 span{
+	text-decoration: line-through
+}
+</style>
